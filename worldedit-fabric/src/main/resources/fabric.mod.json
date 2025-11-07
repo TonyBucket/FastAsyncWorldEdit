@@ -1,29 +1,27 @@
 {
     "schemaVersion": 1,
-    "id": "worldedit",
+    "id": "fastasyncworldedit",
     "version": "${version}",
 
-    "name": "WorldEdit",
-    "description": "WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single- and multi-player.",
+    "name": "FastAsyncWorldEdit",
+    "description": "Blazing fast world editing for Fabric servers.",
     "authors": [
-        "sk89q",
-        "wizjany",
-        "TomyLobo",
-        "kenzierocks",
-        "Me4502"
+        "Empire92",
+        "NotMyFault",
+        "FastAsyncWorldEdit Team"
     ],
     "contact": {
-        "homepage": "https://enginehub.org/worldedit/",
-        "sources": "https://github.com/EngineHub/WorldEdit"
+        "homepage": "https://www.intellectualsites.com/",
+        "sources": "https://github.com/IntellectualSites/FastAsyncWorldEdit"
     },
 
     "license": "GPL3",
-    "icon": "assets/worldedit/icon.png",
+    "icon": "assets/fastasyncworldedit/icon.png",
 
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.sk89q.worldedit.fabric.FabricWorldEdit"
+            "com.fastasyncworldedit.fabric.FastAsyncWorldEditFabric"
         ]
     },
 
