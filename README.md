@@ -71,6 +71,7 @@ If you need help with anything, hop on discord (link on the left bar).
 
 * [Wiki](https://intellectualsites.github.io/fastasyncworldedit-documentation/)
 * [Javadocs](https://intellectualsites.github.io/fastasyncworldedit-javadocs/)
+* [Fabric build instructions](worldedit-fabric/BUILDING.md)
 
 ## Contributing
 
